@@ -1,0 +1,27 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+main {
+    padding: 40px 32px;
+}
+
+main > :first-child {
+    margin: 0;
+}
+
+h2 {
+    margin: 64px 0 0;
+}
+
+#temps {
+    margin-top: 6px;
+    font-size: 32px;
+}
